@@ -10,6 +10,7 @@ public class Demo1 {
 			System.out.println(i*i+n);
 		}
 		
+		System.out.print("ABC");
 	}
 
 }
